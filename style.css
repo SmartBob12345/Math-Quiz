@@ -15,10 +15,7 @@ body{
     padding-top: 15%;
     padding-bottom: 25%;
 }
-#check{
-    border-radius: 10px;
-    color: skyblue;
-}
+
 #output{
     background: white;
     border-radius: 10px;
